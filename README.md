@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This API was written to allow users to use the Keras API without haveing to download it. It takes arguments like the model name to save as, the parameters to pass when compiling, the layers of the neural network, the number of epochs, and of course, the training data. To test your model, simply pass the name of the model to test and the testing data (X).
+This API was written to allow users to use the Keras API without having to download it. It takes arguments like the model name to save as, the parameters to pass when compiling, the layers of the neural network, the number of epochs, and of course, the training data. To test your model, simply pass the name of the model to test and the testing data (X).
 
 ## Setup
 
